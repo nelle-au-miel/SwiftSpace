@@ -11,7 +11,10 @@ import SwiftUI
 struct SwiftSpaceApp: App {
     var body: some Scene {
         WindowGroup {
-            ViewsControlsDemoView()
+//            ContentView()
+            //ViewsControlsDemoView()
+            //LayoutDemoView()
+            LoginView()
         }
     }
 }
